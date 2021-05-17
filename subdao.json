@@ -1,0 +1,17 @@
+{
+    "name":"SubDAO",
+    "timestamp":"2021-05-17T13:11:47.508Z",
+    "version":{
+        "major":0,
+        "minor":0,
+        "patch":1
+    },
+    "tokens":[
+        {
+            "address":"5DCyzSLBMpYMeFpVHDKjPEVh3vuu2D3Ku4VMqaDUz3VtZ87N",
+            "symbol":"fSDT",
+            "decimals":9,
+            "name":"subDAOTest"
+        }
+    ]
+}
