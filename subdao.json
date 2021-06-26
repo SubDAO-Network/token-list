@@ -8,10 +8,10 @@
     },
     "tokens":[
         {
-            "address":"5DCyzSLBMpYMeFpVHDKjPEVh3vuu2D3Ku4VMqaDUz3VtZ87N",
-            "symbol":"fSDT",
+            "address":"5Dc2pM5vSepFTAF225kwNGUVjFPMqHW3NtVMiHdd1hh3peqX",
+            "symbol":"DWT",
             "decimals":9,
-            "name":"subDAOTest"
+            "name":"DAO World Token"
         }
     ]
 }
