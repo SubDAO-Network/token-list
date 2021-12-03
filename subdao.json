@@ -1,17 +1,17 @@
 {
     "name":"SubDAO",
-    "timestamp":"2021-05-17T13:11:47.508Z",
+    "timestamp":"2021-12-03T13:11:47.508Z",
     "version":{
         "major":0,
         "minor":0,
-        "patch":1
+        "patch":2
     },
     "tokens":[
         {
-            "address":"5Dc2pM5vSepFTAF225kwNGUVjFPMqHW3NtVMiHdd1hh3peqX",
-            "symbol":"DWT",
+            "address":"5Cz8y9b8U8PShsNrUnJ16hC5pPuP3RdFCQRKQmjhJoNoHfaA",
+            "symbol":"TDT",
             "decimals":9,
-            "name":"DAO World Token"
+            "name":"Total DAO Token"
         }
     ]
 }
