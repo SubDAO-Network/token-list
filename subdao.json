@@ -12,6 +12,12 @@
             "symbol":"TDT",
             "decimals":9,
             "name":"Total DAO Token"
+        },
+        {
+            "address": "5H3LRdPUPEizChvuZDmRjsqKMHBwoVBzUk1wWzimAiuEzDnV",
+            "symbol":"SDT",
+            "decimals":9,
+            "name":"Simple DAO Token"
         }
     ]
 }
