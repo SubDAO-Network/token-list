@@ -8,6 +8,12 @@
     },
     "tokens":[
         {
+            "address":"0x387Bd586130a03e4c2ae3c9b9b5481C0993Bfb00",
+            "symbol":"GOV",
+            "decimals":18,
+            "name":"GOV Token"
+        },
+        {
             "address":"5Cz8y9b8U8PShsNrUnJ16hC5pPuP3RdFCQRKQmjhJoNoHfaA",
             "symbol":"TDT",
             "decimals":9,
