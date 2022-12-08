@@ -1,0 +1,17 @@
+{
+    "name":"SubDAO",
+    "timestamp":"2021-12-03T13:11:47.508Z",
+    "version":{
+        "major":0,
+        "minor":0,
+        "patch":2
+    },
+    "tokens":[
+        {
+            "address":"0x387Bd586130a03e4c2ae3c9b9b5481C0993Bfb00",
+            "symbol":"GOV",
+            "decimals":18,
+            "name":"GOV Token"
+        }
+    ]
+}
